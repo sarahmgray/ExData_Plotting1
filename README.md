@@ -112,3 +112,9 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+#references
+https://github.com/GarageGames/Torque2D/wiki/Cloning-the-repo-and-working-with-Git
+http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+http://guides.railsgirls.com/github/
+https://github.com/rfoxfa/Exploratory_Data_Analysis/blob/master/Course%20Project%201/plot4.R
+https://rpubs.com/dmaurath/24642
